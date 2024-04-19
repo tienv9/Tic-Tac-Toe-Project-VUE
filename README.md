@@ -3,6 +3,7 @@
 * This is a simple Tic Tac Toe game with an implementation like Menu, Create an account, Sign in, log in, Leaderboard, basic bot, and simple instruction page on how to play.
 * The game is designed for 2 players using the same computer but can also be played with an easy or hard bot.
 
+* Vuetify is required to be installed in order to run the front-end
 * To access the game, open folder tictactoe-web with something like Visual Studio Code with the correct extension and run with 'npm run dev' 
 * Then open and run Wordle.Api solution to have access to the backend of the game to allow access to functions like login and Leaderboard. 
 
